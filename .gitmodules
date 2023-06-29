@@ -37,3 +37,6 @@
 [submodule "libraries/http_parser/lib/http-parser"]
 	path = libraries/http-parser/lib/http-parser
 	url = https://github.com/nodejs/http-parser.git
+[submodule "pico-extras"]
+	path = pico-extras
+	url = git@github.com:raspberrypi/pico-extras.git
